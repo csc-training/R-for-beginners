@@ -8,5 +8,5 @@ To start studying this interactively:
  - login with Haka or Virtu account (*if you don't have a Haka/Virtu account you need a special notebooks.csc.fi account created for you, contact notebooks@csc.fi*)
  - find the application called "Introduction to R", click on round "Start session" button on the right.
  - Wait for the session to load. Then it will open Jupyter in your browser.
- - In Jupyter, click on __R-for-beginners__ and then on __baseRintro.ipynb__. This will start the notebook in a new Jupyter tab.
+ - In Jupyter, double click on __R-for-beginners__ and then on __baseRintro.ipynb__. This will start the notebook in a new Jupyter tab.
  - Follow the instructions in the notebook. Happy learning!
